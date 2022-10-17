@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chobkyu&layout=compact&theme=tokyonight%20&langs_count=20)
+             ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chobkyu&layout=compact&theme=tokyonight%20&langs_count=20)
 
