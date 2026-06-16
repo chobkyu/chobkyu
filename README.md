@@ -14,3 +14,5 @@
 
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chobkyu&show_icons=true&theme=tokyonight) -->
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwang-YoonGyu&langs_count=8&&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
